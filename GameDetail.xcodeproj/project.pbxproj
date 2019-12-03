@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		5770E4BE23967288004522EC /* Chart.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5770E4BD23967288004522EC /* Chart.swift */; };
 		57D73119239526EF00F8AEB6 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 57D73118239526EF00F8AEB6 /* AppDelegate.swift */; };
 		57D7311B239526EF00F8AEB6 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 57D7311A239526EF00F8AEB6 /* SceneDelegate.swift */; };
 		57D7311D239526EF00F8AEB6 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 57D7311C239526EF00F8AEB6 /* ContentView.swift */; };
@@ -23,6 +24,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		5770E4BD23967288004522EC /* Chart.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Chart.swift; sourceTree = "<group>"; };
 		57D73115239526EF00F8AEB6 /* GameDetail.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = GameDetail.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		57D73118239526EF00F8AEB6 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		57D7311A239526EF00F8AEB6 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -76,6 +78,7 @@
 				57D7311E239526F100F8AEB6 /* Assets.xcassets */,
 				57D7312C2395271900F8AEB6 /* PlayerRow.swift */,
 				57D731362395488900F8AEB6 /* DonutChart.swift */,
+				5770E4BD23967288004522EC /* Chart.swift */,
 				57D73130239529AF00F8AEB6 /* PlayerEditor.swift */,
 				57D7313223952B4F00F8AEB6 /* PlayerData.swift */,
 				57D7313423952BA100F8AEB6 /* PlayerList.swift */,
@@ -170,6 +173,7 @@
 				57D731372395488900F8AEB6 /* DonutChart.swift in Sources */,
 				57D73119239526EF00F8AEB6 /* AppDelegate.swift in Sources */,
 				57D7313323952B4F00F8AEB6 /* PlayerData.swift in Sources */,
+				5770E4BE23967288004522EC /* Chart.swift in Sources */,
 				57D7311B239526EF00F8AEB6 /* SceneDelegate.swift in Sources */,
 				57D7311D239526EF00F8AEB6 /* ContentView.swift in Sources */,
 				57D7313523952BA100F8AEB6 /* PlayerList.swift in Sources */,

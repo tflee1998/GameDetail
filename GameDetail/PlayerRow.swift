@@ -30,7 +30,7 @@ struct PlayerRow: View {
            
             
             
-        }
+        }.background(Color.yellow)
     }
 }
 
